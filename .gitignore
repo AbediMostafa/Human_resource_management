@@ -1,0 +1,6 @@
+mysql
+.DS_Store
+.idea
+frontend/node_modules
+src/vendor
+

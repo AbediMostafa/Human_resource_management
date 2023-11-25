@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: iranyekanx;
+    src: url('/fonts/IRANYekanX-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: iranyekanx;
+    src: url('/fonts/IRANYekanX-Bold.woff') format('woff');
+    font-weight: 700;
+}
+
+body {
+    font-family: iranyekanx;
+    -moz-font-feature-settings: "ss02";
+    -webkit-font-feature-settings: "ss02";
+    font-feature-settings: "ss02";
+}
+
